@@ -1,0 +1,28 @@
+name: CO
+favicon: null
+layout_spectrum: 0.6784416008740664
+typography_spectrum: 0.734647563425824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38472701236605644
+  lightness: 0.5223960916046053
+  saturation: 0.14189307508058846
+  rhythmicContrast: 0.1618968870025128
+purpose: []
